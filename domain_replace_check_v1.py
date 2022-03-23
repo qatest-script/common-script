@@ -62,4 +62,4 @@ for lang in langs:
         else:
             print(f'!!!没有找到--{url}')
 
-print("！！！通知后端修改 notification-server 配置,和 cookie 设置配置")
+print("！！！通知后端修改notification-server配置、cookie 设置配置、帮助中心相关域名的替换！！！")
