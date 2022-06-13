@@ -1,0 +1,7 @@
+网站请求接口之后，将数据替换到request.txt文件中，运行overview_secipt脚本中的main方法。得出解析后的
+'profit'    收益率
+datas['one_daybflist']  一天的数据
+datas['one_wekbflist']  一周的数据
+datas['one_mobflist']   一个月的数据
+datas['tre_mobflist']   三个月的数据
+datas['one_yebflist']   一年的数据
